@@ -1,6 +1,6 @@
 # AWS Serverless Cost Calculator
 
-![Architecture Diagram](cloud-cost-calculator-architecture-diagram.png)
+![Architecture Diagram](cloud-cost-calculator-architecture-diagram.drawio.png)
 
 1. Overview
 A serverless web application that estimates AWS costs for EC2 and EBS volumes. It queries the **AWS Pricing API** in real-time to ensure estimates are always accurate, eliminating the need for hardcoded pricing tables.
